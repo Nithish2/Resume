@@ -14,3 +14,16 @@
  ---|---
  nithish|28
  
+ 
+ 
+ ```
+ welcome to session
+ ```
+ 
+```js
+
+const odd=45;
+console.log(odd);
+```
+:wink:
+
